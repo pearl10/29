@@ -4,7 +4,7 @@ var options={
 bodyA:bodyA,
 pointB:pointB,
 stiffness:0.4,
-length:5
+length:20
 
 }
 this.pointB=pointB;
